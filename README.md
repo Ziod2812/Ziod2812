@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ziod2812/Ziod2812/main/header.svg" width="100%" alt="Ziod">
 
-# Ziod
+# Ziod2812
 
 *Student · Linux enthusiast · Hyprland · Quickshell*
 
