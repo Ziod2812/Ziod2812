@@ -17,7 +17,6 @@
 ## About me
 
 - 🇻🇳 Vietnamese
-- 🎓 High school student — Grade 12
 - 🐧 Passionate about Linux & open-source
 - 🖥️ Interested in desktop customization
 - ⚡ Learning Linux, QML and programming
