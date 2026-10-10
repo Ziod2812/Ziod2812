@@ -42,6 +42,7 @@ Colors   whatever the wallpaper says
 - Projects:
   - [DoiZ Shell](https://github.com/Ziod2812/DoiZ-Shell) — a desktop where every color is pulled from the wallpaper, with close effects like Judgement Cut, Portal, Ice, Glass Break and Black Hole
   - [Live Wallpaper Manager](https://github.com/Ziod2812/Live-Wallpaper-Manager) — live wallpapers for Hyprland, multi-monitor, playlists and Smart Accent colors
+  - [Catppuccin YouTube Glow](https://github.com/Ziod2812/Catppuccin-Youtube-Glow-English) — A Catppuccin Mocha theme for YouTube with glassmorphism, blur effects, and mauve neon accents.
 - Focus: Linux desktop customization
 - Side quest: producing ambient music while the build runs
 
